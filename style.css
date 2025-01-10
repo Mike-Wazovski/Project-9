@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    font-family: "Urbanist", sans-serif;
+    margin: 0;
+}
+
+header{
+    background-color: #1A3129;
+    height: 95px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0;
+
+}
+
+header a{
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    text-decoration: none;
+    padding-left: 26px;
+}
+
+
+header a:hover{
+    font-size: 18px;
+    font-weight: 600;
+    color: #CBEA7B;
+    text-decoration: none;
+    padding-left: 26px;
+}
+
+
+.btn1{
+    padding: 14px 24px 14px 24px;
+    height: 55px;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: #CBEA7B;
+    color: #262626;
+    border: none;
+    border-radius: 8px;
+    margin-left: 40px;
+}
+
+.s1-main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.s1-top{
+    font-size: 28px;
+    font-weight: 600;
+    color: #1A3129;
+    border-bottom: 3px solid #CBEA7B;
+    width: 400px;
+    margin: 0px 0px 14px 0px;
+}
+
+.s1-big{
+    font-size: 58px;
+    font-weight: 700;
+    color: #1A3129;
+    padding: 0;
+    margin: 20px 0px 50px 0px;
+}
+
+.s1-mini{
+    font-size: 18px;
+    font-weight: 500;
+    color: #333333;
+    margin: 0;
+}
+
+.s1-btn{
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.btn2{
+    padding: 14px 24px 14px 24px;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: #CBEA7B;
+    color: #262626;
+    border: none;
+    border-radius: 8px;
+}
+
+.btn3{
+    padding: 14px 24px 14px 24px;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: transparent;
+    color: #262626;
+    border: 1px solid #CBEA7B;
+    border-radius: 8px;
+    margin-left: 20px;
+    
+}
+
+.happyCustomers{
+    display: flex;
+    align-items: center;
+    margin-top: 70px;
+}
+
+.text-c{
+    display: flex;
+    align-items: center;
+}
+
+
+.c{
+    font-size: 20px;
+    color: #468671;
+    font-weight: 700;
+    padding-right: 8px;
+    padding-left: 8px;
+}
+
+.happy{
+    font-size: 20px;
+    color: #1A3129;
+    font-weight: 500;
+}
+
+
+.s1-right-main{
+    margin-right: 480px;
+}
